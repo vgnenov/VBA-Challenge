@@ -20,10 +20,10 @@
 
 # Sample Screenshots
 
-![Screenshot](VBA-Challenge\VGN_VBA_Challenge_2014.jpg "Screenshot")
+![Screenshot](Screenshots/2014.jpg "Screenshot")
 
-![Screenshot](VBA-Challenge\VGN_VBA_Challenge_2015.jpg "Screenshot")
+![Screenshot](Screenshots/2015.jpg "Screenshot")
 
-![Screenshot](VBA-Challenge\VGN_VBA_Challenge_2016.jpg "Screenshot")
+![Screenshot](Screenshots/2016.jpg "Screenshot")
 
 
