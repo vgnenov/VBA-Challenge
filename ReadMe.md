@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 
-![Screenshot](stockmarket.jpg "Screenshot")
+![Screenshot](Screenshots/stockmarket.jpg "Screenshot")
 
 # Project Description
  Utilized VBA scripting to analyze real stock market data. 
