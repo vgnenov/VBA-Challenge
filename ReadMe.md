@@ -19,7 +19,7 @@ Utilize VBA scripting to analyze real stock market data.
 
 - Conditional formatting highlights positive change in green and negative change in red 
 
-# Screenshots of Results
+## Screenshots of Results
 
 ![Screenshot](Screenshots/2014.jpg "Screenshot")
 
