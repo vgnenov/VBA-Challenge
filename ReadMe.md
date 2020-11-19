@@ -2,9 +2,8 @@
 
 ![Screenshot](Screenshots/stockmarket.jpg "Screenshot")
 
-# Project Description
+# Purpose of Project
 
-## Purpose of Project
 Utilize VBA scripting to analyze real stock market data. 
 
 ## Process
